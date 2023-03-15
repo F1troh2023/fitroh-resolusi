@@ -2,5 +2,5 @@ Fitroh Resolusi
 Mempelajari web developer untuk mengerti semantic web
 Mempelajari algortima BERT untuk klasifikasi dokumen
 Memperbaiki proposal untuk persiapan ujian lisan
-Membuat semantic untuk disertasi
 Kolaborasi dengan tim disertasi
+Implementasi web semantic pada IPB Repository

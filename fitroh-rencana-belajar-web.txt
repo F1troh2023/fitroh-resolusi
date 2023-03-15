@@ -11,3 +11,7 @@ Belajar CSS Framework
 Belajar Git/GitHub
 Belajar PHP
 - Laravel
+Belajar JavaScrip
+Belajar Phyton
+Belajar PHP dan Laravel
+

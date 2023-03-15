@@ -7,3 +7,5 @@ Belajar CSS3
 Belajar CSS Framework
 - Belajar BOOTSTREP
 Belajar Git/GitHub
+Belajar JavaScrip
+Belajar Phyton

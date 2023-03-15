@@ -1,0 +1,7 @@
+Belajar HTML
+- sintak dalam HTML
+Belajar CSS
+- coding yang digunakan untuk menghubungkan HTML dengan CSS
+Belajar CSS3
+Belajar CSS Framework
+Belajar Git/GitHub

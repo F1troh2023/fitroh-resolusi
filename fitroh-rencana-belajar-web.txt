@@ -1,5 +1,7 @@
 Belajar HTML
 - sintak dalam HTML
+- elemen dalam HTML (head/body/footer)
+- plug in emmed
 Belajar CSS
 - coding yang digunakan untuk menghubungkan HTML dengan CSS
 Belajar CSS3
@@ -7,5 +9,9 @@ Belajar CSS3
 Belajar CSS Framework
 - Belajar BOOTSTREP
 Belajar Git/GitHub
+Belajar PHP
+- Laravel
 Belajar JavaScrip
 Belajar Phyton
+Belajar PHP dan Laravel
+

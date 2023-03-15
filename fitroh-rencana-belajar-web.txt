@@ -3,5 +3,7 @@ Belajar HTML
 Belajar CSS
 - coding yang digunakan untuk menghubungkan HTML dengan CSS
 Belajar CSS3
+- elemen khusus CSS3 yang lebih kompleks
 Belajar CSS Framework
+- Belajar BOOTSTREP
 Belajar Git/GitHub
